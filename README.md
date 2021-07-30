@@ -1,11 +1,6 @@
-## Hi there ✌
+## Hi I’m Sandro ✌
 
 <div>
-    <p>- 👋 I’m Sandro and I'm working with ASP.NET</p>
-    <p>- ❤ Java is my favorite language </p>
-    <p>- 🌱 I’m currently learning ASP.NET </p>
-  
- ##
   <br><a href="https://github.com/sferriss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sferriss&layout=compact&langs_count=7&theme=tokyonight"/>
   
