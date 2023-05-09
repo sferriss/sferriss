@@ -98,8 +98,8 @@ Trabalho atualmente na Cwi Software como desenvolvedor backend dotnet e curso Ci
 </p>
 <hr>
 <div style="display: inline_block" align="center"><br>
-<img height="140"  src="https://github-readme-stats.vercel.app/api?username=sferriss&show_icons=true&theme=vue-dark&hide=stars,issues&locale=pt-br">
-<img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sferriss&layout=compact&theme=vue-dark&locale=pt-br">  
+<img height="140"  src="https://github-readme-stats.vercel.app/api?username=sferriss&show_icons=true&theme=ocean_dark&hide=stars,issues&locale=pt-br">
+<img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sferriss&layout=compact&theme=ocean_dark&locale=pt-br">  
 </div>
 <div align="center"> 
   <div>
