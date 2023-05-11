@@ -5,97 +5,107 @@ Trabalho atualmente na Cwi Software como desenvolvedor backend dotnet e curso Ci
 
 # <div>🐱‍👤 Skills </div>
 <br>
+<div>
 <p align="left">
     <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
     alt="html5"
     width="30"
     height="30"
+    title="HTML5"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
     alt="css3"
     width="30"
     height="30"
+    title="CSS3"
   />
     <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript"
     width="30"
     height="30"
+    title="JavaScript"
   />
     <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
     alt="react"
     width="30"
     height="30"
+    title="React"
   />
     <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
     alt="angular"
     width="30"
     height="30"
+    title="Angular"
   />
     <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
     alt="csharp"
     width="30"
     height="30"
+    title="C#"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"
     alt="dotnet"
     width="30"
     height="30"
+    title=".Net Core"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
     alt="java"
     width="30"
     height="30"
+    title="Java"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
     alt="spring"
     width="30"
     height="30"
+    title="SpringBoot"
   />
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
-    width="30"
-    height="30"
+      width="30"
+      height="30"
+      title="TypeScript"
     />
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
-    width="30"
-    height="30"
-    />
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
-      alt="sqlserver"
-    width="30"
-    height="30"
+      width="30"
+      height="30"
+      title="MongoDB"
     />
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgres"
-    width="30"
-    height="30"
+      width="30"
+      height="30"
+      title="Postgres"
     />
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original-wordmark.svg"
       alt="podman"
-    width="30"
-    height="30"
+      width="30"
+      height="30"
+      title="Podman"
     />
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
-    width="30"
-    height="30"
+      width="30"
+      height="30"
+      title="Docker"
     />
+    </div>
 </p>
 <hr>
 <div style="display: inline_block" align="center"><br>
