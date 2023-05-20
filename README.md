@@ -3,7 +3,7 @@
 
 Trabalho atualmente na Cwi Software como desenvolvedor backend dotnet e curso Ciência da Computação na Unisinos. Esse é meu repositório pessoal onde publico trabalhos da graduação e projetos pessoais para estudo.
 
-# <div>🐱‍👤 Skills </div>
+# <div>Skills </div>
 <br>
 <div>
 <p align="left">
