@@ -1,7 +1,7 @@
-# <div align="center">Oi, eu sou o Sandro 🙋‍♂️</div>
-#### <div align="center">  💻 Desenvolvedor Backend</div>
+# <div align="center">Hi, I'm Sandro 🙋‍♂️</div>
+#### <div align="center">  💻 Backend developer</div>
 
-Trabalho atualmente na Cwi Software como desenvolvedor backend dotnet e curso Ciência da Computação na Unisinos. Esse é meu repositório pessoal onde publico trabalhos da graduação e projetos pessoais para estudo.
+I'm currently working as a backend developer with .NET Core at CWI Software and pursuing a degree in Computer Science at Unisinos. This repository features both academic projects and personal studies.
 
 # <div>Skills </div>
 <br>
