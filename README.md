@@ -6,7 +6,7 @@ I hold a bachelor's degree in Computer Science from Unisinos and currently work 
 # <div>Skills </div>
 <br>
 <div style="display: inline_block">
-    <img align="center" alt="tecnologias" src="https://skillicons.dev/icons?i=dotnet,cs,java,spring,typescript,javascript,html,css,react,postgres,mongodb">
+    <img align="center" alt="tecnologias" src="https://skillicons.dev/icons?i=dotnet,cs,java,spring,typescript,javascript,html,css,react,postgres,mongodb,aws">
 </div>
 </p>
 <hr>
